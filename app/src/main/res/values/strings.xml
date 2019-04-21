@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Soccer Team Tracker</string>
+    <string-array name="soccerTeam">
+        <item>Status</item>
+        <item>Home-Team</item>
+        <item>Away-Team</item>
+    </string-array>
+    <string-array name="teamName">
+        <item>Select Team</item>
+        <item>Man United FC</item>
+        <item>Arsenal FC</item>
+        <item>Real Madrid FC</item>
+        <item>Barcelona FC</item>
+        <item>Chelsea FC</item>
+        <item>Tottenham FC</item>
+
+    </string-array>
+</resources>
